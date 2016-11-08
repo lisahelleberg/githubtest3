@@ -10,7 +10,8 @@ namespace githubtest3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test af Git Branches"); 
+            Console.WriteLine("Test af Git Branches");
+            Console.WriteLine("Er nu på develop branch");
         }
     }
 }
